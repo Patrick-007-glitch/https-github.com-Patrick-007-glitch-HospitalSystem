@@ -1,10 +1,10 @@
-Hospital Patient Admission System
+Hospital Patient Admission System for Medicare
 
 Student Information
-Name:** Patrick Tshiluwa Kamunga
+Name: Patrick Tshiluwa Kamunga
 Student Number:** ST10497579
-Module:** Programming 1B
-Date:** August 2026
+Module: Programming 1B
+Date: August 2026
 
 Project Description
 
